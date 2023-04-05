@@ -1,0 +1,137 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-mini);
+  width: 708px;
+  height: 508px;
+}
+.group-item,
+.username {
+  position: absolute;
+  top: 0;
+  left: -8px;
+  width: 633.95px;
+  height: 87px;
+}
+.username {
+  top: 16px;
+  left: 65.95px;
+  display: inline-block;
+  width: 163px;
+  height: 30px;
+}
+.group-parent {
+  position: absolute;
+  top: 102px;
+  left: 45.05px;
+  box-shadow: 5px 5px 5px rgba(130, 127, 127, 0.25);
+  width: 625.95px;
+  height: 79px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: #a1c9f1;
+  width: 626px;
+  height: 87px;
+}
+.login2 {
+  position: absolute;
+  top: 21.31px;
+  left: 68.51px;
+  display: inline-block;
+  width: 487.76px;
+  height: 44.9px;
+}
+.group-wrapper,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 626px;
+  height: 87px;
+}
+.group-wrapper {
+  top: 350px;
+  left: 45px;
+  cursor: pointer;
+  color: var(--color-darkslategray);
+}
+.login1,
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 700px;
+  height: 500px;
+}
+.login1 {
+  top: 116px;
+  left: 104px;
+  box-shadow: 5px 5px 5px rgba(128, 128, 128, 0.25);
+}
+.vector-icon {
+  position: absolute;
+  height: 3.32%;
+  width: 2.22%;
+  top: 33.01%;
+  right: 77.82%;
+  bottom: 63.67%;
+  left: 19.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.6;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: -8px;
+  border-radius: var(--br-mini);
+  width: 633.95px;
+  height: 87px;
+}
+.password,
+.vector-icon1 {
+  position: absolute;
+  top: 27px;
+  left: 69px;
+  opacity: 0.5;
+}
+.vector-icon1 {
+  height: 31.58%;
+  width: 3.62%;
+  top: 34.18%;
+  right: 93.02%;
+  bottom: 34.24%;
+  left: 3.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.6;
+}
+.vector-group {
+  position: absolute;
+  top: 339px;
+  left: 149px;
+  width: 625.95px;
+  height: 79px;
+  color: var(--color-black);
+}
+.login {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 907px;
+  height: 730px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: #949393;
+  font-family: var(--font-inter);
+}

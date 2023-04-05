@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-noto-sans: "Noto Sans";
+  --font-inder: Inder;
+  --font-imprint-mt-shadow: "Imprint MT Shadow";
+  --font-inconsolata: Inconsolata;
+
+  /* font sizes */
+  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray: #434242;
+  --color-oldlace: #f5f2e1;
+  --color-red: #e50916;
+
+  /* border radiuses */
+  --br-mini: 15px;
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+}
